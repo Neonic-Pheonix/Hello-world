@@ -3,12 +3,18 @@ This repo Is WIP
 It wil have the code to create all hell oworld in multiple languages
 
 ## Done
-C /n
+C 
+
 C++
+
 C#
+
 HTML
+
 Javascript
+
 Python
+
 Visual basic
 
 ## To do 
