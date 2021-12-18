@@ -1,6 +1,17 @@
 # Hello-world
-a repository with the tittle 'hello-world'
+This repo Is WIP
+It wil have the code to create all hell oworld in multiple languages
 
-a bit about your self
-yeet
+## Done
+C
+C++
+C#
+HTML
+Javascript
+Python
+Visual basic
+
+## To do 
+
+all the rest of them
 
