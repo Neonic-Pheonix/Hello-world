@@ -1,0 +1,5 @@
+void setup() {
+  Serial.begin(9600); //initialize serial monitor
+  while (!Serial); //This waits till the serial is initialised, or else the print does not register on some boards
+  Serial.println("Hello world");
+}
